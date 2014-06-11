@@ -3,7 +3,7 @@
 	<title><![CDATA[SHōGUN EMPIRE]]></title>
 	<link href="http://shogun.keep.se/atom.xml" rel="self"/>
 	<link href="http://shogun.keep.se/"/>
-	<updated>2014-06-11T12:37:20+03:00</updated>
+	<updated>2014-06-11T12:42:46+03:00</updated>
 	<id>http://shogun.keep.se/</id>
 	<author>
 		<name><![CDATA[sh0gun]]></name>
@@ -13,11 +13,47 @@
 	
 	<entry>
 		
+			<title type="html"><![CDATA[kk k k]]></title>
+		
+		<link href="http://shogun.keep.se/blog/kk-k-k/"/>
+		<updated>2014-06-11T12:42:37+03:00</updated>
+		<id>http://shogun.keep.se/blog/kk-k-k</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[asd asd]]></title>
+		
+		<link href="http://shogun.keep.se/blog/asd-asd/"/>
+		<updated>2014-06-11T12:42:28+03:00</updated>
+		<id>http://shogun.keep.se/blog/asd-asd</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
 			<title type="html"><![CDATA[da da da]]></title>
 		
-		<link href="http://shogun.keep.se/blog/2014/06/11/da-da-da/"/>
+		<link href="http://shogun.keep.se/blog/da-da-da/"/>
 		<updated>2014-06-11T12:32:28+03:00</updated>
-		<id>http://shogun.keep.se/blog/2014/06/11/da-da-da</id>
+		<id>http://shogun.keep.se/blog/da-da-da</id>
 		<content type="html">
 			<![CDATA[
 				

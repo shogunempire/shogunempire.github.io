@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://shogun.keep.se/blog/2014/06/11/da-da-da/</loc>
+        <loc>http://shogun.keep.se/blog/da-da-da/</loc>
         <lastmod>2014-06-11T12:37:03+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://shogun.keep.se/blog/asd-asd/</loc>
+        <lastmod>2014-06-11T12:42:28+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://shogun.keep.se/blog/kk-k-k/</loc>
+        <lastmod>2014-06-11T12:42:37+03:00</lastmod>
     </url>
     <url>
         <loc>http://shogun.keep.se/robots.txt</loc>
@@ -10,10 +18,10 @@
     </url>
     <url>
         <loc>http://shogun.keep.se/</loc>
-        <lastmod>2014-06-11T12:32:40+03:00</lastmod>
+        <lastmod>2014-06-11T12:42:37+03:00</lastmod>
     </url>
     <url>
         <loc>http://shogun.keep.se/blog/archives/</loc>
-        <lastmod>2014-06-11T12:32:40+03:00</lastmod>
+        <lastmod>2014-06-11T12:42:37+03:00</lastmod>
     </url>
 </urlset>
