@@ -3,13 +3,31 @@
 	<title><![CDATA[SHōGUN EMPIRE]]></title>
 	<link href="http://shogun.keep.se/atom.xml" rel="self"/>
 	<link href="http://shogun.keep.se/"/>
-	<updated>2014-06-11T14:34:49+03:00</updated>
+	<updated>2014-06-12T00:25:33+03:00</updated>
 	<id>http://shogun.keep.se/</id>
 	<author>
 		<name><![CDATA[shōgun]]></name>
 		
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[asdasdasd]]></title>
+		
+		<link href="http://shogun.keep.se/blog/asdasdasd/"/>
+		<updated>2014-06-11T14:50:40+03:00</updated>
+		<id>http://shogun.keep.se/blog/asdasdasd</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
