@@ -3,7 +3,7 @@
 	<title><![CDATA[SHōGUN EMPIRE]]></title>
 	<link href="http://shogun.keep.se/atom.xml" rel="self"/>
 	<link href="http://shogun.keep.se/"/>
-	<updated>2014-06-12T00:25:33+03:00</updated>
+	<updated>2014-06-12T00:39:37+03:00</updated>
 	<id>http://shogun.keep.se/</id>
 	<author>
 		<name><![CDATA[shōgun]]></name>
@@ -13,42 +13,18 @@
 	
 	<entry>
 		
-			<title type="html"><![CDATA[asdasdasd]]></title>
+			<title type="html"><![CDATA[Patience]]></title>
 		
-		<link href="http://shogun.keep.se/blog/asdasdasd/"/>
-		<updated>2014-06-11T14:50:40+03:00</updated>
-		<id>http://shogun.keep.se/blog/asdasdasd</id>
+		<link href="http://shogun.keep.se/blog/patience/"/>
+		<updated>2014-06-12T00:38:57+03:00</updated>
+		<id>http://shogun.keep.se/blog/patience</id>
 		<content type="html">
 			<![CDATA[
 				
 					<p></p>
 				
 			]]>
-			<![CDATA[
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[test]]></title>
-		
-		<link href="http://shogun.keep.se/blog/test/"/>
-		<updated>2014-06-11T14:33:30+03:00</updated>
-		<id>http://shogun.keep.se/blog/test</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>asd laslk d
-asd a
-sd
-asd
-as
-das
-d</p>
+			<![CDATA[<p>&ldquo;Patience is the best remedy for every trouble.&rdquo;</p>
 ]]>
 		</content>
 	</entry>
