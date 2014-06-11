@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://shogunempire.github.io/sitemap.xml 
+Sitemap: http://shogun.keep.se/sitemap.xml 

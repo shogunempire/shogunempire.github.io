@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title><![CDATA[My Octopress Blog]]></title>
-	<link href="http://shogunempire.github.io/atom.xml" rel="self"/>
-	<link href="http://shogunempire.github.io/"/>
-	<updated>2014-06-11T12:18:15+03:00</updated>
-	<id>http://shogunempire.github.io/</id>
+	<title><![CDATA[SHōGUN EMPIRE]]></title>
+	<link href="http://shogun.keep.se/atom.xml" rel="self"/>
+	<link href="http://shogun.keep.se/"/>
+	<updated>2014-06-11T12:37:20+03:00</updated>
+	<id>http://shogun.keep.se/</id>
 	<author>
-		<name><![CDATA[Your Name]]></name>
+		<name><![CDATA[sh0gun]]></name>
 		
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[da da da]]></title>
+		
+		<link href="http://shogun.keep.se/blog/2014/06/11/da-da-da/"/>
+		<updated>2014-06-11T12:32:28+03:00</updated>
+		<id>http://shogun.keep.se/blog/2014/06/11/da-da-da</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>lasd
+asd
+ a
+sd
+sad
+as
+da
+d
+da
+s</p>
+]]>
+		</content>
+	</entry>
 	
 </feed>
