@@ -3,7 +3,7 @@
   <title><![CDATA[Category: Local | SHōGUN EMPIRE]]></title>
   <link href="http://shogun.keep.se/blog/categories/local/atom.xml" rel="self"/>
   <link href="http://shogun.keep.se/"/>
-  <updated>2014-06-13T04:54:25+03:00</updated>
+  <updated>2014-06-13T05:16:45+03:00</updated>
   <id>http://shogun.keep.se/</id>
   <author>
     <name><![CDATA[shōgun]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tracking You?]]></title>
+    <link href="http://shogun.keep.se/blog/tracking-you/"/>
+    <updated>2014-06-13T04:58:59+03:00</updated>
+    <id>http://shogun.keep.se/blog/tracking-you</id>
+    <content type="html"><![CDATA[<p>I don&rsquo;t and won&rsquo;t have any idea who visits me. I do not track you. I&rsquo;m too selfish
+to share data with Google(by using Analytics), too poor(?) to afford PHP hosting or
+too lazy to bypass anti-tracking browser extensions and to write a GeoIP cURL method,
+or to <em>grep -R</em> for someone&rsquo;s MaxMind paid database(or again poor?) and finally to
+mindmap people who randomly land here for searching &ldquo;shogun porn&rdquo; in a Chinese IE search toolbar.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Patience]]></title>
