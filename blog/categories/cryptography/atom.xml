@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Category: Cryptography | SHōGUN EMPIRE]]></title>
+  <link href="http://shogun.keep.se/blog/categories/cryptography/atom.xml" rel="self"/>
+  <link href="http://shogun.keep.se/"/>
+  <updated>2014-06-13T04:47:40+03:00</updated>
+  <id>http://shogun.keep.se/</id>
+  <author>
+    <name><![CDATA[shōgun]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Crypto Break]]></title>
+    <link href="http://shogun.keep.se/blog/crypto-break/"/>
+    <updated>2014-06-13T04:39:42+03:00</updated>
+    <id>http://shogun.keep.se/blog/crypto-break</id>
+    <content type="html"><![CDATA[<p>Well, if you&rsquo;re a social media <em>analyst</em>, you&rsquo;ll cover Colin Percival&rsquo;s presentation in 10 minutes. </br>
+<a href="http://shogun.keep.se/files/crypto1hr.pdf">Download</a></p>
+]]></content>
+  </entry>
+  
+</feed>
