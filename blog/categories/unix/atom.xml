@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Category: Unix | SHōGUN EMPIRE]]></title>
+  <link href="http://shogun.keep.se/blog/categories/unix/atom.xml" rel="self"/>
+  <link href="http://shogun.keep.se/"/>
+  <updated>2014-06-17T19:36:45+03:00</updated>
+  <id>http://shogun.keep.se/</id>
+  <author>
+    <name><![CDATA[shōgun]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Icinga vs Nagios]]></title>
+    <link href="http://shogun.keep.se/blog/icinga-vs-nagios/"/>
+    <updated>2014-06-17T19:34:57+03:00</updated>
+    <id>http://shogun.keep.se/blog/icinga-vs-nagios</id>
+    <content type="html"><![CDATA[<p><a href="https://www.icinga.org/about/nagios/feature-comparison/">See</a> for yourselves. Migrating now to Icinga2.</p>
+]]></content>
+  </entry>
+  
+</feed>
