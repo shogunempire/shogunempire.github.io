@@ -3,13 +3,33 @@
 	<title><![CDATA[SHōGUN EMPIRE]]></title>
 	<link href="http://shogun.keep.se/atom.xml" rel="self"/>
 	<link href="http://shogun.keep.se/"/>
-	<updated>2014-06-17T18:08:26+03:00</updated>
+	<updated>2014-06-17T18:48:02+03:00</updated>
 	<id>http://shogun.keep.se/</id>
 	<author>
 		<name><![CDATA[shōgun]]></name>
 		
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Subrosa - why trust is not an option]]></title>
+		
+		<link href="http://shogun.keep.se/blog/subrosa-why-trust-is-not-an-option/"/>
+		<updated>2014-06-17T18:37:27+03:00</updated>
+		<id>http://shogun.keep.se/blog/subrosa-why-trust-is-not-an-option</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Check out <a href="https://subrosa.io" target="_blank">Subrosa</a>: &ldquo;Subrosa is an encrypted communication platform. Reclaim your privacy and talk freely.&rdquo;
+Hell no. Read my other post about JS crypto. Besides, the owners could always backdoor the JS code. I won&rsquo;t have the nerves to always SHA512 their
+JS and my cache files, then diff to find the leaky hole. I&rsquo;m no fucking Robin Seggelmann; I don&rsquo;t have finesse. So, stick with Pidgin + OTR, please.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
