@@ -3,7 +3,7 @@
   <title><![CDATA[Category: Cryptography | SHōGUN EMPIRE]]></title>
   <link href="http://shogun.keep.se/blog/categories/cryptography/atom.xml" rel="self"/>
   <link href="http://shogun.keep.se/"/>
-  <updated>2014-06-13T09:41:36+03:00</updated>
+  <updated>2014-06-17T18:08:26+03:00</updated>
   <id>http://shogun.keep.se/</id>
   <author>
     <name><![CDATA[shōgun]]></name>
@@ -11,6 +11,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why JS Crypto Sucks]]></title>
+    <link href="http://shogun.keep.se/blog/why-js-crypto-sucks/"/>
+    <updated>2014-06-17T17:59:41+03:00</updated>
+    <id>http://shogun.keep.se/blog/why-js-crypto-sucks</id>
+    <content type="html"><![CDATA[<p>Matasano says to Google that they&rsquo;re wrong. </br>
+<a href="http://shogun.keep.se/files/js_crypto_sucks.pdf">Download</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crypto Break]]></title>
