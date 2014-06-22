@@ -3,7 +3,7 @@
   <title><![CDATA[Category: Cryptography, | SHōGUN EMPIRE]]></title>
   <link href="http://shogun.keep.se/blog/categories/cryptography/atom.xml" rel="self"/>
   <link href="http://shogun.keep.se/"/>
-  <updated>2014-06-23T01:10:26+03:00</updated>
+  <updated>2014-06-23T01:14:48+03:00</updated>
   <id>http://shogun.keep.se/</id>
   <author>
     <name><![CDATA[shōgun]]></name>
@@ -11,6 +11,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cross-VM Attacks on Xen and VMware]]></title>
+    <link href="http://shogun.keep.se/blog/cross-vm-attacks-on-xen-and-vmware/"/>
+    <updated>2014-06-23T01:12:05+03:00</updated>
+    <id>http://shogun.keep.se/blog/cross-vm-attacks-on-xen-and-vmware</id>
+    <content type="html"><![CDATA[<p>Just skip to page 11. </br>
+<a href="http://shogun.keep.se/files/Cross-VM-Attacks-on-Xen-and-VMware.pdf">Download</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[PHP Data Encryption Tips]]></title>

@@ -33,6 +33,10 @@
         <lastmod>2014-06-23T01:10:17+03:00</lastmod>
     </url>
     <url>
+        <loc>http://shogun.keep.se/blog/cross-vm-attacks-on-xen-and-vmware/</loc>
+        <lastmod>2014-06-23T01:14:41+03:00</lastmod>
+    </url>
+    <url>
         <loc>http://shogun.keep.se/netsec-services/</loc>
         <lastmod>2014-06-13T04:31:54+03:00</lastmod>
     </url>
@@ -50,10 +54,10 @@
     </url>
     <url>
         <loc>http://shogun.keep.se/</loc>
-        <lastmod>2014-06-23T01:10:17+03:00</lastmod>
+        <lastmod>2014-06-23T01:14:41+03:00</lastmod>
     </url>
     <url>
         <loc>http://shogun.keep.se/blog/archives/</loc>
-        <lastmod>2014-06-23T01:10:17+03:00</lastmod>
+        <lastmod>2014-06-23T01:14:41+03:00</lastmod>
     </url>
 </urlset>
