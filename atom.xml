@@ -3,13 +3,32 @@
 	<title><![CDATA[SHōGUN EMPIRE]]></title>
 	<link href="http://shogun.keep.se/atom.xml" rel="self"/>
 	<link href="http://shogun.keep.se/"/>
-	<updated>2014-06-23T01:14:48+03:00</updated>
+	<updated>2014-06-25T23:58:28+03:00</updated>
 	<id>http://shogun.keep.se/</id>
 	<author>
 		<name><![CDATA[shōgun]]></name>
 		
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Red Team Field Manual]]></title>
+		
+		<link href="http://shogun.keep.se/blog/red-team-field-manual/"/>
+		<updated>2014-06-25T23:29:56+03:00</updated>
+		<id>http://shogun.keep.se/blog/red-team-field-manual</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>A really comprehensive list of useful commands, across various operating systems, from the POV of a curious guy. Check the mindmaps too. </br>
+<a href="http://shogun.keep.se/files/Rtfm.Red.Team.Field.Manual.pdf">Download</a></p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		

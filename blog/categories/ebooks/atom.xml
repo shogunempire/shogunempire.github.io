@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Category: Ebooks | SHōGUN EMPIRE]]></title>
+  <link href="http://shogun.keep.se/blog/categories/ebooks/atom.xml" rel="self"/>
+  <link href="http://shogun.keep.se/"/>
+  <updated>2014-06-25T23:58:28+03:00</updated>
+  <id>http://shogun.keep.se/</id>
+  <author>
+    <name><![CDATA[shōgun]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Red Team Field Manual]]></title>
+    <link href="http://shogun.keep.se/blog/red-team-field-manual/"/>
+    <updated>2014-06-25T23:29:56+03:00</updated>
+    <id>http://shogun.keep.se/blog/red-team-field-manual</id>
+    <content type="html"><![CDATA[<p>A really comprehensive list of useful commands, across various operating systems, from the POV of a curious guy. Check the mindmaps too. </br>
+<a href="http://shogun.keep.se/files/Rtfm.Red.Team.Field.Manual.pdf">Download</a></p>
+]]></content>
+  </entry>
+  
+</feed>
